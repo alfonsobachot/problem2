@@ -16,11 +16,11 @@ Last, a button that sends the order to a remote API and shows an alert with its 
 
 ## Setup 
 
-** Install Dependencies **
+**Install Dependencies**
 
     npm install
     
-** Run App ** 
+**Run App** 
 
     npm run web
 
