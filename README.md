@@ -1,4 +1,4 @@
-# Problem Ordering Solved
+# Ordering Problem Solved
 
 App made with React Native using hooks.
 I'm using Expo to deploy and test the app.
